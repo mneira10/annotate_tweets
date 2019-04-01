@@ -27,7 +27,23 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.tweet {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.boton {
+  margin-left: 10pt;
+  margin-right: 20pt;
+  /* border-block-end-color: black;
+  border: #282c34; */
+  /* padding-left: 10pt;
+  padding-right: 10pt; */
 }
