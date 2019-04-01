@@ -1,0 +1,13 @@
+{
+  "main.css": "/annotate_tweets/static/css/main.d6e56ce5.chunk.css",
+  "main.js": "/annotate_tweets/static/js/main.b814e94c.chunk.js",
+  "main.js.map": "/annotate_tweets/static/js/main.b814e94c.chunk.js.map",
+  "runtime~main.js": "/annotate_tweets/static/js/runtime~main.a8363f01.js",
+  "runtime~main.js.map": "/annotate_tweets/static/js/runtime~main.a8363f01.js.map",
+  "static/js/2.e43b3bb5.chunk.js": "/annotate_tweets/static/js/2.e43b3bb5.chunk.js",
+  "static/js/2.e43b3bb5.chunk.js.map": "/annotate_tweets/static/js/2.e43b3bb5.chunk.js.map",
+  "index.html": "/annotate_tweets/index.html",
+  "precache-manifest.fe536758f126da2eb6b81c9d4b0ecf1e.js": "/annotate_tweets/precache-manifest.fe536758f126da2eb6b81c9d4b0ecf1e.js",
+  "service-worker.js": "/annotate_tweets/service-worker.js",
+  "static/css/main.d6e56ce5.chunk.css.map": "/annotate_tweets/static/css/main.d6e56ce5.chunk.css.map"
+}
